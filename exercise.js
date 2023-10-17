@@ -48,34 +48,6 @@ console.log('You are ' + yourAge + ' years old.');
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Day 2 Exercise
 
 var challenge = 'learn Javascript';                            //Q1
@@ -192,5 +164,33 @@ console.log(mergedString);
 var str = 'learn Javascript';
 var repeatedString = str.repeat(2);                                                 //Q25
 console.log(repeatedString);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
